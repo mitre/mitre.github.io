@@ -98,8 +98,9 @@ strong {
 }
 
 ul li {
-  list-style: inside;
-  padding-left: 25px;
+  list-style: outside;
+  padding-left: 10px;
+  margin-left: 25px;
 }
 
 ol li {
