@@ -1,1 +1,1 @@
-http://mitre.github.com/
+http://mitre.github.io/
