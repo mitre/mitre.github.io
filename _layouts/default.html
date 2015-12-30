@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  {% include header.html %}
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">Open Source at MITRE</h1>
+        <p class="header">Open Source software from The MITRE Corporation at GitHub</p>
+
+        <ul>
+          <li><a class="buttons github" href="https://github.com/mitre">GitHub Profile</a></li>
+        </ul>
+
+      </header>
+      <section>
+        <h1>{{ page.title }}</h1>
+
+        {{ content }}
+      </section>
+
+      {% include footer.html %}
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+  </body>
+</html>
