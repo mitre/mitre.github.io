@@ -11,9 +11,12 @@ If you would like to add your project to the list, submit an
 [pull request](https://github.com/mitre/mitre.github.com/pulls) with the
 appropriate changes.
 
-MITRE's Technology Transfer Office maintains a
-[list](http://www.mitre.org/work/tech_transfer/downloadable_software.html) of
-open source projects developed at MITRE.
+MITRE's Technology Transfer Office maintains a list of [open source projects
+developed at
+MITRE](https://www.mitre.org/research/technology-transfer/open-source-software).
+
+MITRE has also begun developling a list of open source software [generally
+recognized as safe](/gras.html).
 
 ## Projects
 
