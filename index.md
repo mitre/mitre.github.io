@@ -26,6 +26,7 @@ recognized as safe](/gras.html).
 
 * [Atmospheric](https://github.com/atmospheric/atmospheric) MATLAB Toolbox for accessing, analyzing, and visualizing atmospheric data.
 * [ACE Connect Lite](https://github.com/mitrefccace/aceconnectlite-public) VRS platform for deaf and hard-of-hearing individuals using a videophone and the hearing community.
+* [ACE Direct](https://github.com/mitrefccace/acedirect-public) Open source video software for consumer-facing call centers in both government organizations and private sector companies that will allow callers who use American Sign Language to directly interact with customer service representatives.
 * [Bonnie](https://github.com/projecttacoma/bonnie) Clinical Quality Measure Testing Tool
 * [Callisto](https://mitre.github.com/callisto/) Text Markup Application
 * [Cedar](http://mitre.github.io/cedar/) eCQM Collections System Testing Tool
