@@ -48,6 +48,7 @@ recognized as safe](/gras.html).
 * [Medirectory](https://github.com/Medirectory) A prototype healthcare directory
 * [MITRECND](https://github.com/mitrecnd) cybersecurity
 * [MITREid Connect](https://github.com/mitreid-connect) Reference implementation of the OpenID Connect protocol
+* [OpenMPF](https://openmpf.github.io/) The Open Media Processing Framework, is a scalable, web-friendly platform designed to bring modern algorithms to media analytics.
 * [OVAL](https://github.com/OVALProject) Open Vulnerability and Assessment Language
 * [PDMP](https://github.com/project-pdmp) A testbed to demonstrate integration of prescription drug monitoring programs with health IT systems. Uses hData and OpenSearch technologies.
 * [PLUS](https://github.com/plus-provenance/plus) Provenance: Understanding and Linking Sources is a system for capturing, querying, and analyzing data provenance
