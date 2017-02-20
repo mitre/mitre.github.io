@@ -32,11 +32,12 @@ recognized as safe](/gras.html).
 * [Cedar](http://mitre.github.io/cedar/) eCQM Collections System Testing Tool
 * [Cogulator](http://cogulator.github.io/Cogulator/)
 * [Control-Component-Library](https://github.com/buffetboy2001/Control-Component-Library) Control Component Library (PIDs, Saturators, etc.) and associated integrators &amp; differentiators for Java
-* [Crucible](https://github.com/fhir-crucible) Standards conformance tester for 
+* [Crucible](https://github.com/fhir-crucible) Standards conformance tester for
 * [CrystalDS](https://github.com/crystal-ds) Crystal Decision Support
 * [CybOX](https://github.com/CybOXProject) Cyber Observable eXpresssion
 * [cypress](https://github.com/projectcypress) Meaningful Use Stage 2 Clinical Quality Measure testing and certification tool
 * [FMACM](https://github.com/mitre/fmacm) An aircraft and control model for Flight Deck Interval Management MOPS testing by RTCA SC-186 members.
+* [HashConfig](https://github.com/mitrefccace/hashconfig) Open-source tool to process secure JSON configuration files.
 * [hQuery](https://github.com/hquery) A framework for distributed querying of health data
 * [hReader](https://github.com/projecthreader/) Secure patient-centric mobile family health manager
 * [iMAS](https://github.com/project-imas) iOS Mobile Application Security
