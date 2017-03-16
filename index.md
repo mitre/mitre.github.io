@@ -45,6 +45,7 @@ recognized as safe](/gras.html).
 * [Intervention Engine](https://github.com/intervention-engine/) A web-application for data-driven team huddles
 * [IVML](https://jegentile.github.io/ivml/) Interactive Visualization Markup Language library
 * [MAEC](https://github.com/MAECProject) Malware Attribute Enumeration and Characterization
+* [MAT](http://mat-annotation.sourceforge.net/) MITRE Annotation Toolkit
 * [Mandolin](https://github.com/project-mandolin) Large-scale Machine Learning using Apache Spark
 * [Medirectory](https://github.com/Medirectory) A prototype healthcare directory
 * [MIST](http://mist-deid.sourceforge.net/) MITRE Identification Scrubber Toolkit
