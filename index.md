@@ -47,6 +47,7 @@ recognized as safe](/gras.html).
 * [MAEC](https://github.com/MAECProject) Malware Attribute Enumeration and Characterization
 * [Mandolin](https://github.com/project-mandolin) Large-scale Machine Learning using Apache Spark
 * [Medirectory](https://github.com/Medirectory) A prototype healthcare directory
+* [MIST](http://mist-deid.sourceforge.net/) MITRE Identification Scrubber Toolkit
 * [MITRECND](https://github.com/mitrecnd) cybersecurity
 * [MITREid Connect](https://github.com/mitreid-connect) Reference implementation of the OpenID Connect protocol
 * [OpenMPF](https://openmpf.github.io/) The Open Media Processing Framework, is a scalable, web-friendly platform designed to bring modern algorithms to media analytics.
