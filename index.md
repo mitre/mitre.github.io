@@ -63,3 +63,4 @@ recognized as safe](/gras.html).
 * [SVMP](https://svmp.github.io) The Secure Virtual Mobile Platform is an open system for running virtual smartphones in the cloud.
 * [TAXII](https://github.com/TAXIIProject) Trusted Automated eXchange of Indicator Information
 * [Transcript](https://github.com/project-transcript/) Pharmacy informatics tools for information extraction and error checking.
+*[Vulnerable Mobile Apps](https://mitre.github.io/vulnerable-mobile-apps/) A collection of mobile apps that demonstrate vulnerabilities and privacy violating behaviors.
