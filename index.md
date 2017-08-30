@@ -33,6 +33,7 @@ recognized as safe](/gras.html).
 * [Cedar](http://mitre.github.io/cedar/) eCQM Collections System Testing Tool
 * [Cogulator](http://cogulator.github.io/Cogulator/)
 * [Control-Component-Library](https://github.com/buffetboy2001/Control-Component-Library) Control Component Library (PIDs, Saturators, etc.) and associated integrators &amp; differentiators for Java
+* [CPSA](https://github.com/mitre/cpsa) Cryptographic Protocol Shapes Analyzer
 * [Crucible](https://github.com/fhir-crucible) Standards conformance tester for
 * [CrystalDS](https://github.com/crystal-ds) Crystal Decision Support
 * [CybOX](https://github.com/CybOXProject) Cyber Observable eXpresssion
