@@ -61,6 +61,7 @@ recognized as safe](/gras.html).
 * [ptmatch](https://github.com/mitre/ptmatch) and [ptmatch-frontend](https://github.com/mitre/ptmatch-frontend) A patient matching service that builds on the Intervention Engine FHIR Server
 * [RHEx](https://github.com/project-rhex) RESTful Health Exchange
 * [secretsharing](https://github.com/secretsharing/secretsharing) A Java implementation of the Shamir Secret Sharing Scheme vetted by MITRE cryptographers.
+* [Standard Health Record](https://github.com/standardhealth/) The Standard Health Record (SHR) provides a high quality, computable source of patient information by establishing a single target for health data standardization.
 * [STIX](https://github.com/STIXProject) Structured Threat Information eXpression
 * [SVMP](https://svmp.github.io) The Secure Virtual Mobile Platform is an open system for running virtual smartphones in the cloud.
 * [TAXII](https://github.com/TAXIIProject) Trusted Automated eXchange of Indicator Information
