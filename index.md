@@ -17,9 +17,6 @@ MITRE](https://www.mitre.org/research/technology-transfer/open-source-software).
 Questions about any MITRE open source projects or contributions can be directed
 to [opensource@mitre.org](mailto:opensource@mitre.org).
 
-MITRE has also begun developing a list of open source software [generally
-recognized as safe](/gras.html).
-
 ## Projects
 
 {% comment %} Please keep these in alphabetic order {% endcomment %}
