@@ -51,7 +51,7 @@ to [opensource@mitre.org](mailto:opensource@mitre.org).
 * [MITRECND](https://github.com/mitrecnd) cybersecurity
 * [MITREid Connect](https://github.com/mitreid-connect) Reference implementation of the OpenID Connect protocol
 * [OpenMPF](https://openmpf.github.io/) The Open Media Processing Framework, is a scalable, web-friendly platform designed to bring modern algorithms to media analytics.
-* [OpenSextant](https://opensextant.github.io/) Open geospatial and temporal toolkit
+* [OpenSextant](https://opensextant.github.io/) Open geospatial and temporal information extraction toolkit
 * [OVAL](https://github.com/OVALProject) Open Vulnerability and Assessment Language
 * [PDMP](https://github.com/project-pdmp) A testbed to demonstrate integration of prescription drug monitoring programs with health IT systems. Uses hData and OpenSearch technologies.
 * [PLUS](https://github.com/plus-provenance/plus) Provenance: Understanding and Linking Sources is a system for capturing, querying, and analyzing data provenance
