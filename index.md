@@ -62,6 +62,7 @@ The following GitHub organizations host MITRE-developed code:
 * [Standard Health Record](https://github.com/standardhealth/) The Standard Health Record (SHR) provides a high quality, computable source of patient information by establishing a single target for health data standardization.
 * [STIX](https://github.com/STIXProject) Structured Threat Information eXpression
 * [SVMP](https://svmp.github.io) The Secure Virtual Mobile Platform is an open system for running virtual smartphones in the cloud.
+* [Synthetic Health](https://github.com/synthetichealth/) Synthetic Healthcare Patient Population Simulator
 * [TAXII](https://github.com/TAXIIProject) Trusted Automated eXchange of Indicator Information
 * [Transcript](https://github.com/project-transcript/) Pharmacy informatics tools for information extraction and error checking.
 
