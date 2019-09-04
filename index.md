@@ -41,7 +41,7 @@ The following GitHub organizations host MITRE-developed code:
     * [ACE Quill App](https://github.com/mitrefccace/ace-quill-app) Open source Android app developed as a test tool to support usability research and test studies involving cloud-based speech-to-text (STT) engines.
     * [ACE Quill Server](https://github.com/mitrefccace/ace-quill-server) Open source server developed to support usability research and test studies involving cloud-based speech-to-text engines. The ACE Quill server interfaces to Google Speech, Microsoft Bing Speech, and IBM Watson to provide captioning in the form of text. In addition, the ACE Quill server also provides a web-based portal for researchers to display and download collected data.
 * [Analytic Technology Industry Roundtable](https://analytic-roundtable.github.io/) The Analysis Exchange project and related use cases for information exchange ideas in complex data analytics.
-* [Cedar](http://mitre.github.io/cedar/) eCQM Collections System Testing Tool
+* [Cedar](https://github.com/mitre/cedar/) eCQM Collections System Testing Tool
 * [Crucible](https://github.com/fhir-crucible) Standards conformance tester for
 * [CrystalDS](https://github.com/crystal-ds) Crystal Decision Support
 * [CybOX](https://github.com/CybOXProject) Cyber Observable eXpresssion
