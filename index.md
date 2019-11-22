@@ -74,6 +74,7 @@ The following GitHub organizations host MITRE-developed code:
 * [Bonnie](https://github.com/projecttacoma/bonnie) Clinical Quality Measure Testing Tool
 * [Cogulator](http://cogulator.github.io/Cogulator/) A Cognitive Modeling Calculator
 * [Control-Component-Library](https://github.com/buffetboy2001/Control-Component-Library) Control Component Library (PIDs, Saturators, etc.) and associated integrators &amp; differentiators for Java
+* [Generation AI Nexus](https://github.com/Generation-AI-Nexus) Generation AI Nexus Courseware and Materials
 * [Intellect](https://github.com/nemonik/Intellect) DSL and Rules Engine For Python
 * [IVML](https://jegentile.github.io/ivml/) Interactive Visualization Markup Language library
 * [MAT](http://mat-annotation.sourceforge.net/) MITRE Annotation Toolkit
