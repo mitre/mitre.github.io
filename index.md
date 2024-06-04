@@ -35,11 +35,14 @@ A selection of [repositories in the MITRE organization](https://github.com/mitre
 The following GitHub organizations host MITRE-developed code:
 
 * [ACE](https://github.com/mitrefccace) Accessible Communications for Everyone
-    * [ACE Connect Lite](https://github.com/mitrefccace/aceconnectlite-public) VRS platform for deaf and hard-of-hearing individuals using a videophone and the hearing community.
-    * [ACE Direct](https://github.com/mitre-ace-direct) Open source video software for consumer-facing call centers in both government organizations and private sector companies that will allow callers who use American Sign Language to directly interact with customer service representatives.
-    * [HashConfig](https://github.com/mitrefccace/hashconfig) Open-source tool to process secure JSON configuration files.
-    * [ACE Quill App](https://github.com/mitrefccace/ace-quill-app) Open source Android app developed as a test tool to support usability research and test studies involving cloud-based speech-to-text (STT) engines.
-    * [ACE Quill Server](https://github.com/mitrefccace/ace-quill-server) Open source server developed to support usability research and test studies involving cloud-based speech-to-text engines. The ACE Quill server interfaces to Google Speech, Microsoft Bing Speech, and IBM Watson to provide captioning in the form of text. In addition, the ACE Quill server also provides a web-based portal for researchers to display and download collected data.
+
+  * [ACE Omni](https://github.com/mitrefccace/ace-omni) is a dedicated research platform for experimenting with Telecommunications Relay Services (TRS) solutions. It facilitates the creation, emulation, and management of TRS solutions, making comprehensive research more efficient and cost-effective. The platform aims to improve communication for the d/Deaf, Hard of Hearing, DeafBlind, and speech impaired.
+  * [ACE Connect Lite](https://github.com/mitrefccace/aceconnectlite-public) VRS platform for deaf and hard-of-hearing individuals using a videophone and the hearing community.
+  * [ACE Direct](https://github.com/mitre-ace-direct) Open source video software for consumer-facing call centers in both government organizations and private sector companies that will allow callers who use American Sign Language to directly interact with customer service representatives.
+  * [HashConfig](https://github.com/mitrefccace/hashconfig) Open-source tool to process secure JSON configuration files.
+  * [ACE Quill App](https://github.com/mitrefccace/ace-quill-app) Open source Android app developed as a test tool to support usability research and test studies involving cloud-based speech-to-text (STT) engines.
+  * [ACE Quill Server](https://github.com/mitrefccace/ace-quill-server) Open source server developed to support usability research and test studies involving cloud-based speech-to-text engines. The ACE Quill server interfaces to Google Speech, Microsoft Bing Speech, and IBM Watson to provide captioning in the form of text. In addition, the ACE Quill server also provides a web-based portal for researchers to display and download collected data.
+
 * [Analytic Technology Industry Roundtable](https://analytic-roundtable.github.io/) The Analysis Exchange project and related use cases for information exchange ideas in complex data analytics.
 * [Cedar](https://github.com/mitre/cedar/) eCQM Collections System Testing Tool
 * [Crucible](https://github.com/fhir-crucible) Standards conformance tester for
