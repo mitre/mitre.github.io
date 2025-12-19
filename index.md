@@ -29,10 +29,15 @@ A selection of [repositories in the MITRE organization](https://github.com/mitre
 * [FMACM](https://github.com/mitre/fmacm) An aircraft and control model for Flight Deck Interval Management MOPS testing by RTCA SC-186 members.
 * [ptmatch](https://github.com/mitre/ptmatch) and [ptmatch-frontend](https://github.com/mitre/ptmatch-frontend) A patient matching service that builds on the Intervention Engine FHIR Server
 * [Vulnerable Mobile Apps](https://mitre.github.io/vulnerable-mobile-apps/) A collection of mobile apps that demonstrate vulnerabilities and privacy violating behaviors.
+* [Boogie](https://github.com/mitre-public/boogie) A java library for parsing aeronautical navigation data, assembling it into useful objects, and analyzing those (e.g., fight plan expansion and graphical procedure analysis).
+* [CAASD Commons](https://github.com/mitre-public/commons) A java library with literate classes for avionics applications.
+* [dist-tree](https://github.com/mitre-public/dist-tree) A java library for a multi-dimensional search tree with and a pluggable data storage layer
 
 ## Organizations
 
 The following GitHub organizations host MITRE-developed code:
+
+* [MITRE Public](https://github.com/mitre-public) A collection of open source projects developed by MITRE.
 
 * [ACE](https://github.com/mitrefccace) Accessible Communications for Everyone
 
