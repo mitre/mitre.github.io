@@ -27,6 +27,7 @@ A selection of [repositories in the MITRE organization](https://github.com/mitre
 * [Callisto](https://mitre.github.io/callisto/) Text Markup Application
 * [CPSA](https://github.com/mitre/cpsa) Cryptographic Protocol Shapes Analyzer
 * [FMACM](https://github.com/mitre/fmacm) An aircraft and control model for Flight Deck Interval Management MOPS testing by RTCA SC-186 members.
+* [ILF](https://github.com/mitre/ilf) A minimalistic event log format and libraries for efficient log processing, especially for real-time use cases.
 * [ptmatch](https://github.com/mitre/ptmatch) and [ptmatch-frontend](https://github.com/mitre/ptmatch-frontend) A patient matching service that builds on the Intervention Engine FHIR Server
 * [Vulnerable Mobile Apps](https://mitre.github.io/vulnerable-mobile-apps/) A collection of mobile apps that demonstrate vulnerabilities and privacy violating behaviors.
 
